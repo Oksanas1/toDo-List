@@ -1,6 +1,6 @@
 # Project: Todo list
 
-### [Site link] (https://oksanas1.github.io/toDo-List/)
+### [Site link](https://oksanas1.github.io/toDo-List/)
 
 Layout support desktop and mobile version
 
